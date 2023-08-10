@@ -1,0 +1,46 @@
+* {
+    list-style: none;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    color: green;
+}
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0 10px 0;
+
+}
+li {
+    margin: 0;
+    padding: 0 10px 0 10px;
+}
+svg {
+    width: 25px;
+    height: 25px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.manu {
+    display: block;
+}
+h3, h2, h4 {
+    margin: 10px 5px;
+}
+
+.contact {
+    display: flex;
+}
+.sskill {
+    padding: 0 40px;
+}
+.address {
+    padding: 0 20px;
+}
